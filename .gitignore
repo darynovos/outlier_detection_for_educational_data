@@ -1,0 +1,3 @@
+# Ignore python system files
+.ipynb_checkpoints/
+__pycache__/
